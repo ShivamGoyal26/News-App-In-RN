@@ -27,8 +27,8 @@ function Tabs() {
         // <NavigationContainer>
         <Tab.Navigator
             tabBarOptions={{
-                activeTintColor: 'white',
-                labelStyle: { fontSize: 12 },
+                activeTintColor: 'black',
+                labelStyle: { fontSize: 15 },
                 tabStyle: { width: 100, height: 65 },
                 showLabel: true,
                 style: { backgroundColor: 'orange' },
